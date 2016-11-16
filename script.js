@@ -19,7 +19,7 @@ var pusher = new Pusher("REDACTED", {
 
 // as well as our normal pusher instance, instantiate a "spy" to spy on members
 // of a presence channel independently of the main instance
-var spy = new Pusher("052c5401f56d4bde9fce", {
+var spy = new Pusher("REDACTED", {
   encrypted: true,
   authEndpoint: "http://127.0.0.1:5000/pusher/auth",
   auth: {

@@ -1,0 +1,26 @@
+{
+  "name": "presence-spy-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "pusher": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hot-leaf-juice/presence-spy-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hot-leaf-juice/presence-spy-example/issues"
+  },
+  "homepage": "https://github.com/hot-leaf-juice/presence-spy-example#readme"
+}
